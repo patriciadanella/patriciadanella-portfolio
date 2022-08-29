@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/patriciadanella-portfolio/static/css/main.71fe56fd.chunk.css",
+    "main.js": "/patriciadanella-portfolio/static/js/main.7ed2ce6c.chunk.js",
+    "main.js.map": "/patriciadanella-portfolio/static/js/main.7ed2ce6c.chunk.js.map",
+    "runtime-main.js": "/patriciadanella-portfolio/static/js/runtime-main.17c56e4c.js",
+    "runtime-main.js.map": "/patriciadanella-portfolio/static/js/runtime-main.17c56e4c.js.map",
+    "static/css/2.a3842014.chunk.css": "/patriciadanella-portfolio/static/css/2.a3842014.chunk.css",
+    "static/js/2.296d9c86.chunk.js": "/patriciadanella-portfolio/static/js/2.296d9c86.chunk.js",
+    "static/js/2.296d9c86.chunk.js.map": "/patriciadanella-portfolio/static/js/2.296d9c86.chunk.js.map",
+    "index.html": "/patriciadanella-portfolio/index.html",
+    "precache-manifest.7fdf15f26bebd5fa03c6d5df287d1ca5.js": "/patriciadanella-portfolio/precache-manifest.7fdf15f26bebd5fa03c6d5df287d1ca5.js",
+    "service-worker.js": "/patriciadanella-portfolio/service-worker.js",
+    "static/css/2.a3842014.chunk.css.map": "/patriciadanella-portfolio/static/css/2.a3842014.chunk.css.map",
+    "static/css/main.71fe56fd.chunk.css.map": "/patriciadanella-portfolio/static/css/main.71fe56fd.chunk.css.map",
+    "static/js/2.296d9c86.chunk.js.LICENSE.txt": "/patriciadanella-portfolio/static/js/2.296d9c86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17c56e4c.js",
+    "static/css/2.a3842014.chunk.css",
+    "static/js/2.296d9c86.chunk.js",
+    "static/css/main.71fe56fd.chunk.css",
+    "static/js/main.7ed2ce6c.chunk.js"
+  ]
+}

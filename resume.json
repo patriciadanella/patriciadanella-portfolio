@@ -1,0 +1,54 @@
+{
+    "basic_info": {
+      "description_header": "Hi there 👋👋 my name is Patricia Danella 😊😊",
+      "description": "Aesthetic enthusiast, I am a person who loves to design everything till it looks aesthetic. As for interior design, I am focused to design residential space with a goal to make people felt comfy with their own house for living. \n I am a organized person who prepare for everything before started to works on the job to achieve the planned goal.",
+      "section_name": {
+        "about": "About",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experiences"
+      }
+    },
+    "projects": [
+      {
+        "title": "Gaming Bedroom",
+        "startDate": "2022",
+        "description": "3x4 m² space for bedroom and gaming room.",
+        "images": [
+          "images/portfolio/residential/gamingBedroom.jpg"
+        ],
+        "url": "#"
+      },
+      {
+        "title": "Surabaya Tourism Information Center",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I was responsible for designing Surabaya Tourism Information Center. Earned A grade for this project :)",
+        "images": [
+          "images/portfolio/public-space/tic.jpg"
+        ],
+        "url": "#"
+      },
+      {
+        "title": "Small Apartment Bedroom",
+        "startDate": "2019",
+        "description": "Small Bedroom Styling",
+        "images": [
+          "images/portfolio/residential/smallBedroom.jpg"
+        ],
+        "url": "https://www.instagram.com/p/CI01tSrlW2s/"
+      }
+    ],
+    "experience": [
+      {
+        "company": "ARM Interior (instagram.com/arm_interior)",
+        "title": "Interior Designer",
+        "years": "2022 - Present",
+        "mainTech": [
+          "SketchUp"
+        ],
+        "technologies": [
+          "Enscape"
+        ]
+      }
+    ]
+  }

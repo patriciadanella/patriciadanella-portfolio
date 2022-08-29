@@ -1,0 +1,24 @@
+{
+  "basic_info": {
+    "name": "Patricia Danella",
+    "titles": [ "Interior Designer", "Digital Art Designer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/patriciadanella",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ciaportfolio",
+        "class": "fab fa-instagram"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/patriciadanella",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "profile.jpg"
+  }
+}
